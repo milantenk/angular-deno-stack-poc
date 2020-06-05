@@ -21,7 +21,7 @@ Prerequisites
 
 It is recommended to open a Visual Studio Code window from the `server` folder and a separate from the `client-app` folder and develop the two codebase parallel in two VS Code windows.
 
-### Serving the Angular app with Deno
+### Serving the built Angular app with Deno
 To serve the built Angular app do following steps:
 * `cd client-app`
 * `npm install`
@@ -40,7 +40,7 @@ deno install --allow-read --allow-run --allow-write -f --unstable https://deno.l
 denon run --allow-net --allow-read .\server.ts
 ``` 
 
-### Using the livel reloading of Angular
+### Using the live reloading of Angular
 * Start the Angular application from the `client-app` folder using
 ```powershell
 npm run start
