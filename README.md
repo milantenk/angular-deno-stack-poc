@@ -1,7 +1,11 @@
 # Deno - Angular Stack Proof of Concept
-This is a proof of concept for using Angular and Deno. It can be used for playing around with this stack. A post about creating this project [can be found here](https://dev.to/tenkmilan/deno-angular-stack-proof-of-concept-1df2).
+This is a Proof of Concept (PoC) for using Angular and Deno. It can be used for playing around with this stack. 
 
-The folders contain followings:
+Detailed descriptions about creating this project can be found here:
+* [Create the PoC environment](https://dev.to/tenkmilan/deno-angular-stack-proof-of-concept-1df2)
+* [Set up the development tools](https://dev.to/milantenk/deno-angular-development-environment-3ef1)
+
+The folders of this project contain followings:
 * A Deno server in the `server` folder
 * An Angular application in `client-app` folder
 * A Dto in `common` folder
