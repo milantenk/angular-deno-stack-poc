@@ -19,7 +19,7 @@ app.use(async (context) => {
   });
 });
 
-console.log("Live reloading works!")
+console.log("Live reloading works!");
 
 app.listen({ port: 8080 });
 console.log(`Listening on localhost:${8080}`);
